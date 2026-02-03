@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "workspace": "agent-project-space",
+  "owner": "l-87hjl",
+  "current_session": {
+    "id": "initial-setup",
+    "started": "2026-02-03T22:17:36Z",
+    "status": "completed"
+  },
+  "last_updated": "2026-02-03T22:17:36Z",
+  "context": {
+    "description": "Agent workspace initialized with standard directory structure and state files.",
+    "active_task": null,
+    "notes": []
+  },
+  "history": {
+    "total_sessions": 1,
+    "last_session_id": "initial-setup"
+  }
+}
